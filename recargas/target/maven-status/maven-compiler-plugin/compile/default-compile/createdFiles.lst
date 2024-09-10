@@ -1,0 +1,13 @@
+com\recargas\venta\persistencia\entidades\VentasRecarga.class
+com\recargas\venta\persistencia\daos\VendedorDAO.class
+com\recargas\venta\servicio\objetosconsulta\VendedorConsulta.class
+com\recargas\venta\negocio\ProcesoVentas.class
+com\recargas\venta\persistencia\daos\VentasRecargaDAO.class
+com\recargas\venta\servicio\VentasRecargas.class
+com\recargas\venta\servicio\objetosconsulta\OperadorConsulta.class
+com\recargas\venta\persistencia\daos\OperadorDAO.class
+com\recargas\venta\persistencia\entidades\Operador.class
+com\recargas\venta\servicio\objetosDTO\VentasTotalesDTO.class
+com\recargas\venta\persistencia\entidades\Vendedor.class
+com\recargas\venta\VentaApplication.class
+com\recargas\venta\servicio\objetosconsulta\VentasRecargaConsulta.class
